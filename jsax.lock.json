@@ -1,0 +1,12 @@
+{
+  "name": "JSAX",
+  "command" : "node jsax.js",
+  "files/main" : ["jsax.js","jsax.min.js"]
+  "desc": "A lightweight JavaScript library",
+  "author" : "Prajjawal Mishra", 
+  "contact" : "redacted for privacy",
+  "email" : " 94694798+mishra-prajjawal@users.noreply.github.com"
+  "LOG" : "01",
+  "DATE" : "05-01-2023",
+}
+  
