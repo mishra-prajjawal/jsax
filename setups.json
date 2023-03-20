@@ -1,0 +1,9 @@
+{ 
+  "main" : ['jsax-v1.01','atro','beta'], 
+  "modules" : ['random','api','time','data','math'],
+  "$JSAX" :[
+    {'regex'   : 0},
+    {'agents'  : 0},
+    {'browser' : 0}
+    ]
+}
