@@ -1,0 +1,8 @@
+{
+    "@Modules": "./src/modules",
+    "@Config": "./src/config",
+    "$JSAX":"JSAX/V/0.0.1",
+    "Author": "Mishra Prajjawal",
+    "Version": "0.0.1",
+    "Description": "JSAX is a simple and lightweight library for creating web applications using javascript"
+}
